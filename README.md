@@ -6,7 +6,7 @@ I specialize in uncovering insights from data and presenting them through intera
 
 ⸻
 
-🔹 Tools & Technologies
+🛠 Tools & Technologies
 	•	🐍 Programming & Querying: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, R (basics)
 	•	📊 Data Visualization: Power BI, Microsoft Excel (Advanced), Tableau, Matplotlib, Seaborn
 	•	🗄️ Databases & Cloud: Google BigQuery, Snowflake (Basics), AWS (S3, Athena – beginner), MySQL, PostgreSQL
@@ -16,7 +16,7 @@ I specialize in uncovering insights from data and presenting them through intera
 
 ⸻
 
-🔹 Featured Projects
+📂 Featured Projects
 	•	📊 Blinkit Sales Analysis – Power BI dashboard analyzing sales & customer insights
 	•	🏪 Vrinda Store Excel Analysis – Excel-based dashboard for store performance
 	•	✋ Air Gesture Recognition – Exploring computer vision for gesture-based controls
@@ -24,7 +24,7 @@ I specialize in uncovering insights from data and presenting them through intera
 
 ⸻
 
-🔹 How I Work
+🔎 How I Work
 
 ✔ Clean & structure data to ensure quality
 ✔ Perform exploratory analysis to identify trends and hidden patterns
@@ -33,7 +33,7 @@ I specialize in uncovering insights from data and presenting them through intera
 
 ⸻
 
-🔹 Let’s Connect
+🤝 Let’s Connect
 
 📌 LinkedIn: linkedin.com/in/priyanshigoel06
 📧 Email: priyanshigoel95@gmail.com
@@ -42,3 +42,4 @@ I specialize in uncovering insights from data and presenting them through intera
 ⸻
 
 ✨ Always curious, always learning — because data never stops telling stories.
+
